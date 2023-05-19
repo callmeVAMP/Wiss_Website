@@ -771,7 +771,7 @@ hr{
 }
 
 .footer_bg {
-  background-image: url(../images/footer-bg.png);
+  background-image: url(footer-bg.png);
   background-size: cover;
   background-position: right top;
   padding-top: 250px;
